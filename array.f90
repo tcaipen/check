@@ -1,3 +1,6 @@
+% demonstrates array computations
+% for the sign function
+% 7 May 2019
 program array
   implicit none
   real,parameter :: pi=4*atan(1.0)
